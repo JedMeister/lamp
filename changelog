@@ -1,3 +1,10 @@
+turnkey-lamp-19.0 (1) turnkey; urgency=low
+
+  * v19.0 rebuild - includes latest Debian & TurnKey packages.
+
+
+ -- Stefan Davis <nafets.sivad@gmail.com>  Thu, 29 Jan 2026 03:29:12 +0000
+
 turnkey-lamp-18.1 (1) turnkey; urgency=low
 
   * v18.1 rebuild - includes latest Debian & TurnKey packages.
